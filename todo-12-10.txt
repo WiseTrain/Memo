@@ -3,3 +3,4 @@
 (3) garden
 (4) Zen
 (5) Walk
+(6) rest
